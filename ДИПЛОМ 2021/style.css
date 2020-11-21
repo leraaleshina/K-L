@@ -124,9 +124,9 @@ margin-left: 100px;
 .intro{
     background: #2855a3 center;
     margin-left: 50px;
-    width: 1400px;
     height: 600px;
     margin-bottom: 80px;
+    margin-right: 50px;
 }
 
 .intro_title{
@@ -545,3 +545,32 @@ a {
 }
 
 /* contacts page styles end */
+
+
+/* services page start*/
+
+.serv_title{
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.serv_conteiner{
+    margin: 50px 80px 0px 110px;
+}
+
+.descr_serv{
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 15px;
+    text-align: center;
+    border: 1px solid #2855a3;
+    padding: 8px 8px;
+}
+
+.serv_cost{
+    display: block;
+}
+/* services page end*/
